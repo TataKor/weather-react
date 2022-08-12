@@ -10,3 +10,11 @@ body {
  h1 {
   margin-top: 40px;
  }
+ #town {
+  padding: 8px 13px;
+  border-radius: 15px;
+}
+#search {
+  padding: 8px 6px;
+  border-radius: 15px;
+}
