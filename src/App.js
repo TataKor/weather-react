@@ -36,6 +36,11 @@ export default function App() {
           </ul>
         </div>
         </div>
+        <footer>
+        This project was coded by <a href="https://fabulous-sherbet-795727.netlify.app">TataKor</a>{" "}
+        and is open-sourced on{" "}
+        <a href="https://github.com/TataKor/weather-react">GitHub</a>.
+      </footer>
       </header>
     </div>
     );
